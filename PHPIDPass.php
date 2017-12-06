@@ -10,3 +10,4 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <?php
 $link = mysql_connect("localhost","my_user","my_password","my_email");
+?>
